@@ -1,0 +1,25 @@
+{
+  "name": "ormtodo",
+  "version": "1.0.0",
+  "description": "ormtodo inspired by reduxOrm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexonly/ormTodo.git"
+  },
+  "keywords": [
+    "ormtodo"
+  ],
+  "author": "alexHsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexonly/ormTodo/issues"
+  },
+  "homepage": "https://github.com/alexonly/ormTodo#readme",
+  "dependencies": {
+    "opn": "^4.0.2"
+  }
+}
